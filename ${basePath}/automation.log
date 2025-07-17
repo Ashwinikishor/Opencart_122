@@ -1,0 +1,20 @@
+14:45:06.310 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Maven project\Opencart_122\master.xml"
+14:45:07.681 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Maven project\Opencart_122\master.xml
+
+14:46:45.895 [main] INFO  testCases.TC001_AccountRegistationTest - ***Starting TC001_AccountRegistationTest*****
+14:46:49.186 [main] INFO  testCases.TC001_AccountRegistationTest - Clicked on MyAccount Link
+14:46:52.175 [main] INFO  testCases.TC001_AccountRegistationTest - Clicked on Register Link
+14:46:52.280 [main] INFO  testCases.TC001_AccountRegistationTest - Proving customer details
+14:48:50.955 [main] INFO  testCases.TC001_AccountRegistationTest - Validating exectedresult
+14:48:51.321 [main] INFO  testCases.TC001_AccountRegistationTest - ***Finished TC001_AccountRegistationTest*** 
+17:56:22.055 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Maven project\Opencart_122\master.xml"
+17:56:23.031 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Maven project\Opencart_122\master.xml
+
+17:56:58.194 [main] INFO  testCases.TC001_AccountRegistationTest - ***Starting TC001_AccountRegistationTest*****
+17:56:59.374 [main] INFO  testCases.TC001_AccountRegistationTest - Clicked on MyAccount Link
+17:57:01.357 [main] INFO  testCases.TC001_AccountRegistationTest - Clicked on Register Link
+17:57:01.379 [main] INFO  testCases.TC001_AccountRegistationTest - Proving customer details
+17:57:10.317 [main] INFO  testCases.TC001_AccountRegistationTest - Validating exectedresult
+17:57:10.559 [main] INFO  testCases.TC001_AccountRegistationTest - ***Finished TC001_AccountRegistationTest*** 
