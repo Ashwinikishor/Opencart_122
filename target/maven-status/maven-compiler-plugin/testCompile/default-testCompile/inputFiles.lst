@@ -7,6 +7,7 @@ C:\Automation\Maven project\Opencart_122\src\test\java\testBase\BaseClass.java
 C:\Automation\Maven project\Opencart_122\src\test\java\testCases\TC001_AccountRegistationTest.java
 C:\Automation\Maven project\Opencart_122\src\test\java\testCases\TC002_LoginTest.java
 C:\Automation\Maven project\Opencart_122\src\test\java\testCases\TC003_LoginDDT.java
+C:\Automation\Maven project\Opencart_122\src\test\java\testCases\TC004_SearchTest.java
 C:\Automation\Maven project\Opencart_122\src\test\java\utilities\DataProviders.java
 C:\Automation\Maven project\Opencart_122\src\test\java\utilities\ExcelUtility.java
 C:\Automation\Maven project\Opencart_122\src\test\java\utilities\ExtentReportManager.java
