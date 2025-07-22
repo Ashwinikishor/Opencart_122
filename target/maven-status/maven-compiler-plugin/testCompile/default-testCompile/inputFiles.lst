@@ -3,11 +3,13 @@ C:\Automation\Maven project\Opencart_122\src\test\java\pageObjects\HomePage.java
 C:\Automation\Maven project\Opencart_122\src\test\java\pageObjects\LoginPage.java
 C:\Automation\Maven project\Opencart_122\src\test\java\pageObjects\MyAccountPage.java
 C:\Automation\Maven project\Opencart_122\src\test\java\pageObjects\RegisterAccountPage.java
+C:\Automation\Maven project\Opencart_122\src\test\java\pageObjects\SearchPage.java
+C:\Automation\Maven project\Opencart_122\src\test\java\pageObjects\ShoppingCartPage.java
 C:\Automation\Maven project\Opencart_122\src\test\java\testBase\BaseClass.java
 C:\Automation\Maven project\Opencart_122\src\test\java\testCases\TC001_AccountRegistationTest.java
 C:\Automation\Maven project\Opencart_122\src\test\java\testCases\TC002_LoginTest.java
 C:\Automation\Maven project\Opencart_122\src\test\java\testCases\TC003_LoginDDT.java
-C:\Automation\Maven project\Opencart_122\src\test\java\testCases\TC004_SearchTest.java
+C:\Automation\Maven project\Opencart_122\src\test\java\testCases\TC004_SearchProductAddToCart.java
 C:\Automation\Maven project\Opencart_122\src\test\java\utilities\DataProviders.java
 C:\Automation\Maven project\Opencart_122\src\test\java\utilities\ExcelUtility.java
 C:\Automation\Maven project\Opencart_122\src\test\java\utilities\ExtentReportManager.java

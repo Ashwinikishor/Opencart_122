@@ -1,17 +1,20 @@
-14:37:52.559 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Maven project\Opencart_122\master.xml"
-14:39:10.818 [main] INFO  testCases.TC001_AccountRegistationTest - ***Starting TC001_AccountRegistationTest*****
-14:39:13.163 [main] INFO  testCases.TC001_AccountRegistationTest - Clicked on MyAccount Link
-14:39:16.605 [main] INFO  testCases.TC001_AccountRegistationTest - Clicked on Register Link
-14:39:16.693 [main] INFO  testCases.TC001_AccountRegistationTest - Proving customer details
-14:39:29.902 [main] INFO  testCases.TC001_AccountRegistationTest - Validating exectedresult
-14:39:30.365 [main] INFO  testCases.TC001_AccountRegistationTest - ***Finished TC001_AccountRegistationTest*** 
-14:40:05.272 [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginPage***
-15:11:27.346 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Maven project\Opencart_122\master.xml"
-15:13:59.694 [main] INFO  testCases.TC001_AccountRegistationTest - ***Starting TC001_AccountRegistationTest*****
-15:14:19.965 [main] INFO  testCases.TC001_AccountRegistationTest - Clicked on MyAccount Link
-15:16:14.498 [main] INFO  testCases.TC001_AccountRegistationTest - Clicked on Register Link
-15:16:14.579 [main] INFO  testCases.TC001_AccountRegistationTest - Proving customer details
-15:16:29.210 [main] INFO  testCases.TC001_AccountRegistationTest - Validating exectedresult
-15:16:29.821 [main] INFO  testCases.TC001_AccountRegistationTest - ***Finished TC001_AccountRegistationTest*** 
-15:17:34.083 [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginPage***
-15:17:49.238 [main] INFO  testCases.TC002_LoginTest - ****Finished TC002_LoginTest*****
+16:50:36.497 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@dfddc9a: 65 ms
+16:50:36.571 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@63fdab07: 44 ms
+16:50:36.602 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6c25e6c4: 30 ms
+16:50:36.614 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@b70da4c: 12 ms
+16:50:36.615 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4a11eb84: 0 ms
+16:53:05.185 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Maven project\Opencart_122\master.xml"
+16:53:06.262 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Maven project\Opencart_122\master.xml
+
+16:58:08.656 [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginPage***
+16:58:46.546 [main] INFO  testCases.TC002_LoginTest - ****Finished TC002_LoginTest*****
+17:04:54.255 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Maven project\Opencart_122\master.xml"
+17:09:09.665 [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginPage***
+17:09:19.904 [main] INFO  testCases.TC002_LoginTest - ****Finished TC002_LoginTest*****
+13:53:09.207 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Maven project\Opencart_122\master.xml"
+13:53:10.491 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Maven project\Opencart_122\master.xml
+
+14:04:02.212 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Maven project\Opencart_122\master.xml"
+14:14:24.870 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Maven project\Opencart_122\master.xml"
